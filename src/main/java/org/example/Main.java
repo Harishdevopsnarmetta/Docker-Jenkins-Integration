@@ -8,6 +8,7 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome! ");
         System.out.printf("Hello and welcome! Second Data");
+        System.out.printf("Hello and welcome! Third commit Data");
 
 
 
